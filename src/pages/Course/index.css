@@ -1,0 +1,34 @@
+.header {
+  padding: 16px 32px 0;
+  background: #fff;
+  border-bottom: 1px solid #e8e8e8;
+}
+
+.content {
+  margin: 24px 32px;
+  overflow: initial;
+  padding: 24px;
+  background: #fff;
+  textAlign: center;
+}
+
+.breadcrumb {
+  box-sizing: border-box;
+  padding: 0;
+  color: rgba(0, 0, 0, .65);
+  font-variant: tabular-nums;
+  line-height: 1.5;
+  list-style: none;
+  font-feature-settings: "tnum";
+  font-size: 14px;
+  margin-bottom: 16px;
+}
+
+.title {
+  margin-bottom: 16px;
+  font-size: 20px;
+}
+
+.query{
+  margin-bottom: 12px;
+}
